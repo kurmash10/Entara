@@ -1,0 +1,14 @@
+node_modules/
+.vercel/
+.next/
+out/
+target/
+.tools/
+.local/
+.env*
+!.env.example
+test-results/
+playwright-report/
+*.tsbuildinfo
+
+.vercel

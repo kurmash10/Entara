@@ -1,0 +1,165 @@
+{
+  "rpc": "https://api.devnet.solana.com",
+  "program": "BQNmoaaGmwVE3DAgLRAuCXScXSvougAgLA7FoPUnCfMz",
+  "bond": "3Pz2VNTrLGHHsTjJbaJypw5ejfqEGuJEbFpnYUzTfrpF",
+  "signatures": [
+    "5Bm2emyMkst11zfinAC6BpDpddH65D667nxtAKEFaNB9PuUfGTNke56A4meu947iqxJDYzPM4VDQb7VhsXwVV2RQ",
+    "3V3Z2LL3i7FF84GfCDhhHvnaHCvZJjJz9oQUff1wwkQpRRHX8oMzPGQu1coneEFrjP2qFntx3QzC1RnqQQDC6Bnw",
+    "4YtLpqMxBXTg4eCMaFAwK8gmF7HeKL1f9atHDZzKigUBiLjgaK63HS7KhjDKSJLjp8bEjuXovmftK1uRoGodyAKw",
+    "5CDitNJMRKNCjLh7N978D2PLv1gAPbenJVnLtG6G6KBozGEB3TQX2JHPmkXEn88HqvuJ5cPZWee2zwaPykaXMrfh",
+    "4cDBsinM12dwCAQ2JaaPQvX3PUAvqEuGWsfWkCws5MQ2M9M7k1DWoxCsP4y8PhnrbWBVi2ctECqoPsJZujEvMNY3",
+    "ULLDwaWiAXTBi8duXhb5iFo24yjPugRTDP7WLjNF99y2kkAWFMScsAY8pd8Yq2EVodGy8CgN3vv1NNJcBnQg7eg",
+    "p1suV5ygg1n1SKvn53ZkJ6VEoKJXX2uQYixXrPeWTvy7s5dKnEoYY3wUCr6LuKYBXkEsqza8t16tfx6cKEER3PF",
+    "3SyU1a6HaLrJd6B72QMFVAepqSB21xDEZrFtfibxKUqWUkFvLBDVPwpZdmy7nW9jvWEVEjN9WiH1SScnFkayJ17Y",
+    "2rsBzPrwaRGzy7Sngd3fdLggo1oxdMFrndHkDHwTeDCLxb3JvFr2fXY8T82DEGAxFnCC654pUV813L7AX57s2fHB",
+    "s2pzkot8ZpaJsu2BtKJnv5KzJNbcT3pMRZknrT1bAEpB1CbJx4YE2ErZshPjyV1JNaWsBUEXKaX72PAz5TA9ZcB",
+    "5piD29ish8XZxAooiTU62HnbJh7Nbc9FbKjLytjFhwDxG7ht32UnYzasWQX3gt77iH3EZH5eZ64GuyaZewZwu3FG",
+    "55cisdpEv2uojmaXwkB5nc4Ga38PFNbXvvDwrcegGPWVRvPp8Tgrjy1iStbvb7CGFrytSBakUjQ38rZLUJhkqchW",
+    "4wwZoiMbxYq9YfWrba8VySiEZNHPF61rjXVWJ48QHzBnc818g2YDLUwjG3QPbAhAGPfzjqyKKkt5Qbf3YWKHCxCK",
+    "2UrQSHnhmJufDmVfyq6Ekooc7WcGHidKPT4pQhb8Fbkgxad87ii1iWwT24qe269obG4amFraGfYzVbf1cRU3sEuP",
+    "5HvyjxXWSU65nAMxG6GUMmWZRpLC4taqbo9pxFUpaaPGxL1MpvZfLp1ohbZuuzqo8gzm6V9TZdNQp8KPKtsDAq1S",
+    "54cfsi9EKYhfBFq17je5TJJV1JLHwZQfTz5RUkgHwZwbW77xEtAYuoTCK8EfW5VtprGzZQ4kbPyN5eqaeDj4Cmms"
+  ],
+  "completedAt": "2026-10-06T13:13:36.807Z",
+  "state": {
+    "address": "3Pz2VNTrLGHHsTjJbaJypw5ejfqEGuJEbFpnYUzTfrpF",
+    "issuer": "H3RWjPCQQr8RMSUFPnba3cLUa6vHE9Ep7XkkC9thRP7p",
+    "name": "Kazakhstan Infrastructure Bond",
+    "symbol": "KZINF-26",
+    "faceValue": "1000000000",
+    "couponBps": 1000,
+    "paymentsPerYear": 2,
+    "issuedAt": 1791292231,
+    "maturity": 1791292409,
+    "periodSeconds": 1,
+    "totalSupply": "40",
+    "outstanding": "0",
+    "sealed": true,
+    "couponCount": 1,
+    "holders": [
+      {
+        "wallet": "FMUEmtxhU46GzhKF4FW9MLJdQWiLgjiXP9TYRWSrqTpV",
+        "quantity": "0",
+        "paid": "10500000000",
+        "name": "Investor 01"
+      },
+      {
+        "wallet": "6TcyBfPdBt1kjsvDZLzmBFnuMaLWiTaAt4RjUr9VA5YD",
+        "quantity": "0",
+        "paid": "21000000000",
+        "name": "Investor 02"
+      },
+      {
+        "wallet": "4MfyR4G3NWfVRDWo6iNAHDBZqWMgwZX6FNtMqEW3a9JT",
+        "quantity": "0",
+        "paid": "10500000000",
+        "name": "Investor 03"
+      }
+    ],
+    "treasury": "8000000000",
+    "actions": [
+      {
+        "id": 0,
+        "kind": "coupon",
+        "status": "completed",
+        "recordDate": 1791292256,
+        "snapshotAt": 1791292258,
+        "targetQuantity": "0",
+        "couponIndex": 1,
+        "total": "2000000000",
+        "entitlements": [
+          {
+            "wallet": "FMUEmtxhU46GzhKF4FW9MLJdQWiLgjiXP9TYRWSrqTpV",
+            "eligibleQuantity": "10",
+            "quantity": "0",
+            "amount": "500000000",
+            "settled": true
+          },
+          {
+            "wallet": "6TcyBfPdBt1kjsvDZLzmBFnuMaLWiTaAt4RjUr9VA5YD",
+            "eligibleQuantity": "20",
+            "quantity": "0",
+            "amount": "1000000000",
+            "settled": true
+          },
+          {
+            "wallet": "4MfyR4G3NWfVRDWo6iNAHDBZqWMgwZX6FNtMqEW3a9JT",
+            "eligibleQuantity": "10",
+            "quantity": "0",
+            "amount": "500000000",
+            "settled": true
+          }
+        ],
+        "address": "Hy86NkVtcgEqYyHohGdUpsCNkyxETi4s3fYDWTETpCoh"
+      },
+      {
+        "id": 1,
+        "kind": "early",
+        "status": "completed",
+        "recordDate": 1791292291,
+        "snapshotAt": 1791292293,
+        "targetQuantity": "10",
+        "couponIndex": 2,
+        "total": "10000000000",
+        "entitlements": [
+          {
+            "wallet": "FMUEmtxhU46GzhKF4FW9MLJdQWiLgjiXP9TYRWSrqTpV",
+            "eligibleQuantity": "10",
+            "quantity": "3",
+            "amount": "3000000000",
+            "settled": true
+          },
+          {
+            "wallet": "6TcyBfPdBt1kjsvDZLzmBFnuMaLWiTaAt4RjUr9VA5YD",
+            "eligibleQuantity": "20",
+            "quantity": "5",
+            "amount": "5000000000",
+            "settled": true
+          },
+          {
+            "wallet": "4MfyR4G3NWfVRDWo6iNAHDBZqWMgwZX6FNtMqEW3a9JT",
+            "eligibleQuantity": "10",
+            "quantity": "2",
+            "amount": "2000000000",
+            "settled": true
+          }
+        ],
+        "address": "HM2Ue5uNBuAZCUSQrrN5sakFxowjhc8bvZHx3HpMdmUX"
+      },
+      {
+        "id": 2,
+        "kind": "redemption",
+        "status": "completed",
+        "recordDate": 1791292409,
+        "snapshotAt": 1791292410,
+        "targetQuantity": "30",
+        "couponIndex": 2,
+        "total": "30000000000",
+        "entitlements": [
+          {
+            "wallet": "FMUEmtxhU46GzhKF4FW9MLJdQWiLgjiXP9TYRWSrqTpV",
+            "eligibleQuantity": "7",
+            "quantity": "7",
+            "amount": "7000000000",
+            "settled": true
+          },
+          {
+            "wallet": "6TcyBfPdBt1kjsvDZLzmBFnuMaLWiTaAt4RjUr9VA5YD",
+            "eligibleQuantity": "15",
+            "quantity": "15",
+            "amount": "15000000000",
+            "settled": true
+          },
+          {
+            "wallet": "4MfyR4G3NWfVRDWo6iNAHDBZqWMgwZX6FNtMqEW3a9JT",
+            "eligibleQuantity": "8",
+            "quantity": "8",
+            "amount": "8000000000",
+            "settled": true
+          }
+        ],
+        "address": "EDZZ4sZRmU21rfHp7q1TiTdYSygpf2muf283yRm88eue"
+      }
+    ]
+  }
+}

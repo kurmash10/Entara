@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "installCommand": "npm ci",
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_SOLANA_RPC_URL": "https://api.devnet.solana.com",
+      "NEXT_PUBLIC_PROGRAM_ID": "BQNmoaaGmwVE3DAgLRAuCXScXSvougAgLA7FoPUnCfMz"
+    }
+  }
+}

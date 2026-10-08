@@ -1,0 +1,16 @@
+[toolchain]
+anchor_version = "0.31.1"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+corporate_actions = "BQNmoaaGmwVE3DAgLRAuCXScXSvougAgLA7FoPUnCfMz"
+
+[programs.devnet]
+corporate_actions = "BQNmoaaGmwVE3DAgLRAuCXScXSvougAgLA7FoPUnCfMz"
+
+[provider]
+cluster = "Localnet"
+wallet = ".local/deployer.json"
